@@ -564,7 +564,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: ChangeSceneSample
   metroPackageVersion: 
-  metroCertificatePath: C:\Users\mpagani\source\MR\ChangeSceneSample\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets/WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany
